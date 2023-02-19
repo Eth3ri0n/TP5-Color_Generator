@@ -5,6 +5,11 @@ body {
   align-items: center;
   min-height: 100vh;
   color: aliceblue;
+  transition: 0.5s linear;
+  -webkit-transition: 0.5s linear;
+  -moz-transition: 0.5s linear;
+  -ms-transition: 0.5s linear;
+  -o-transition: 0.5s linear;
 }
 
 div {
